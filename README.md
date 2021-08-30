@@ -5,4 +5,5 @@
 4) Momentum GD
 5) NAD
 6) SGD
-7) Batch GD
+7) Mini Batch GD
+8) Batch GD
